@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		CA61B65C295E492600F60F01 /* LocationsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA61B65B295E492600F60F01 /* LocationsViewController.swift */; };
+		CA61B664295E500300F60F01 /* LocationsCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA61B663295E500300F60F01 /* LocationsCollectionViewCell.swift */; };
 		D4468F67295590BC00FA9187 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4468F66295590BC00FA9187 /* AppDelegate.swift */; };
 		D4468F69295590BC00FA9187 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4468F68295590BC00FA9187 /* ViewController.swift */; };
 		D4468F6C295590BC00FA9187 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4468F6A295590BC00FA9187 /* Main.storyboard */; };
@@ -40,6 +41,7 @@
 
 /* Begin PBXFileReference section */
 		CA61B65B295E492600F60F01 /* LocationsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsViewController.swift; sourceTree = "<group>"; };
+		CA61B663295E500300F60F01 /* LocationsCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsCollectionViewCell.swift; sourceTree = "<group>"; };
 		D4468F63295590BC00FA9187 /* RickAndMorty.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RickAndMorty.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4468F66295590BC00FA9187 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D4468F68295590BC00FA9187 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -118,6 +120,7 @@
 				D4468F9429559C8000FA9187 /* CustomCollectionViewCell.swift */,
 				D4468F982955B31000FA9187 /* SettingsViewController.swift */,
 				CA61B65B295E492600F60F01 /* LocationsViewController.swift */,
+				CA61B663295E500300F60F01 /* LocationsCollectionViewCell.swift */,
 			);
 			path = maxJSON;
 			sourceTree = "<group>";
@@ -279,6 +282,7 @@
 				D4901DE72959B7980087C5E5 /* MenuViewController.swift in Sources */,
 				D4468F69295590BC00FA9187 /* ViewController.swift in Sources */,
 				D4468F9529559C8000FA9187 /* CustomCollectionViewCell.swift in Sources */,
+				CA61B664295E500300F60F01 /* LocationsCollectionViewCell.swift in Sources */,
 				D4468F67295590BC00FA9187 /* AppDelegate.swift in Sources */,
 				D4468F992955B31000FA9187 /* SettingsViewController.swift in Sources */,
 			);
